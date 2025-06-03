@@ -86,7 +86,7 @@ Visit 👉 [venkatasaicharan.com](https://www.venkatasaicharan.com)
 ---
 
 ### 📌 Top Contributed Repository
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=KVSC1511&repo=My-Personal-Portfolio&theme=dark)](https://github.com/KVSC1511/My-Personal-Portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=KVSC1511&repo=My-Personal-Portfolio&theme=dark)](https://github.com/KVSC1511/Portfolio)
 
 ## 📫 Let’s Connect
 
