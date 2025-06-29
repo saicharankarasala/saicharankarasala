@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KVSC1511&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KVSC151&theme=blue-green&short_numbers=true&mode=weekly&card_width=494)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KVSC1511&layout=compact&theme=dark)
 
 ---
