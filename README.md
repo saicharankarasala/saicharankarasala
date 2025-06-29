@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Venkata Sai Charan Karasala
+# 👋 Hello, I'm Venkata Sai Charan
 
 🎯 Software Engineer | ☁️ Cloud Enthusiast | 🧠 AI & Automation Developer | 🔧 Problem Solver
 
