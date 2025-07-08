@@ -48,11 +48,17 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saicharankarasala&show_icons=true&theme=tokyonight&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharankarasala&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=saicharankarasala&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=saicharankarasala&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharankarasala&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=saicharankarasala&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,7 +70,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 - 🎯 **Portfolio Website** — React, Vite, Tailwind, Framer Motion, EmailJS  
   👉 [Live Demo](https://www.venkatasaicharan.com)
@@ -75,7 +81,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 - 💡 **AI Chatbots & NLP Flows** — Dialogflow CX, Cloud Run, MongoDB
 
-🔗 [Explore all projects](https://www.venkatasaicharan.com)
+🔗 [Explore more projects](https://www.venkatasaicharan.com)
 
 ---
 
@@ -96,13 +102,17 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ---
 
-## 📌 Top Pinned Repo
+## 📌 Top Pinned Repository
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=saicharankarasala&repo=Portfolio&theme=tokyonight)](https://github.com/saicharankarasala/Portfolio)
+<p align="center">
+  <a href="https://github.com/saicharankarasala/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saicharankarasala&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-charan-k-v"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
