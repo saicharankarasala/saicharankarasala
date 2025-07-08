@@ -40,32 +40,29 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ## 💻 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs,dotnet,html,css,tailwind,react,nextjs,redux,angular,express,nodejs,bash,linux,git,github,docker,kubernetes,aws,gcp,azure,vercel,netlify,jenkins,nginx,postgres,mysql,mongodb,dynamodb,sqlite,apache,socketio,flask,django,fastapi,jwt,vite,webpack,jira,figma,canva,photoshop,postman,graphql,vscode,pandas,numpy,matplotlib,opencv,heroku,powerbi,grafana,prometheus" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cs,dotnet,html,css,tailwind,react,nextjs,redux,angular,express,nodejs,bash,linux,git,github,docker,kubernetes,aws,gcp,azure,vercel,netlify,jenkins,nginx,postgresql,mysql,mongodb,dynamodb,sqlite,apache,socketio,flask,django,fastapi,jwt,vite,webpack,jira,figma,canva,photoshop,postman,graphql,vscode,pandas,numpy,matplotlib,opencv,heroku,powerbi,grafana,prometheus" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=saicharankarasala&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharankarasala&layout=compact&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=saicharankarasala&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saicharankarasala&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharankarasala&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="500" src="https://streak-stats.demolab.com/?user=saicharankarasala&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharankarasala&theme=gruvbox&margin-w=8&title=Commits,Repositories,PullRequest,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saicharankarasala&theme=gruvbox&margin-w=8&no-frame=true" />
 </p>
 
 ---
