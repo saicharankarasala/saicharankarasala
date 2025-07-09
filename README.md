@@ -109,7 +109,7 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharankarasala&theme=gruvbox&margin-w=8&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saicharankarasala&theme=gruvbox&no-frame=true&title=Commits" />
 </p>
 
 ---
