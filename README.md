@@ -104,14 +104,12 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saicharankarasala&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharankarasala&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="500" src="https://streak-stats.demolab.com/?user=saicharankarasala&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saicharankarasala&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saicharankarasala&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saicharankarasala&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharankarasala&theme=tokyonight" />
+</p>
 
 ---
 
