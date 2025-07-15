@@ -108,7 +108,6 @@ Welcome to my GitHub! I'm a passionate software engineer with 4+ years of experi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saicharankarasala&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saicharankarasala&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saicharankarasala&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharankarasala&theme=tokyonight" />
 </p>
 
 ---
